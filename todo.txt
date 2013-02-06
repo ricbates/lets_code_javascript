@@ -1,6 +1,6 @@
 WeeWikiPaint
 
-Minimum Marketable Features:
+Minimum Marketable Features: [MMF]
 * single-user painting on home page
 - collaborative painting
 - wiki-fy the pages
